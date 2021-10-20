@@ -13,7 +13,7 @@
 - 🏢 I'm currently working at **BMP Consulting** as Tech Lead
 - ⚙️ I use daily: `.java`, `.Kotlin`, `.js`, `.dart`, `.kotlin`, `.python`, `.docker`, `.kubernates`
 - 🌍 I'm mostly active within the **GDG Kinshasa Community** whe're I'm the Lead
-- 💅 Designed: BHLib, [https://github.com/bashizip/business-hours-picker](https://www.northmeetssouth.audio), [Pangee](https://github.com/bashizip/pangee), [LesMignons](https://github.com/bashizip/les-mignons), etc…
+- 💅 Designed: [BHLib](https://github.com/bashizip/business-hours-picker), [Pangee](https://github.com/bashizip/pangee), [LesMignons](https://github.com/bashizip/les-mignons), etc…
 - 🌱 Learning all about **Self Driving Cars**
 - 💬 Ping me about **Android**, **agile**, **java**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/bashizip](https://twitter.com/bashizip)
