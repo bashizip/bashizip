@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Crafted last [HAI Platform](http://dev.haidrc.org) insurance management system;
-- ✨ Working on Formose;
-- 🍑 What about this?
+- ✨ Working on Formose; a modern data collection toolbox
+- 🧑‍🎤 Open to new opportunities and adventures
 
 ##### BIO
 
