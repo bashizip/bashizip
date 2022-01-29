@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Java and Android Developer working in Kinshasa and Remotely.
+#### I'm a Full-Stack Java and Android Developer working Remotely.
 
 ##### NOW
 
