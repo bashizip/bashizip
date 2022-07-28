@@ -5,7 +5,6 @@
 ##### NOW
 
 - ✨ Working on FORMOSE; a modern data collection toolbox
-- Living in a "shitty country"
 - 🧑‍🎤 Open to new opportunities and adventures
 
 ##### BIO
